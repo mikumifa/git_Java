@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/COA2022-programming01/COA2022-programming01.iml" filepath="$PROJECT_DIR$/COA2022-programming01/COA2022-programming01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/IOtest.iml" filepath="$PROJECT_DIR$/untitled/IOtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InetTest/InetTest.iml" filepath="$PROJECT_DIR$/InetTest/InetTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterfaceLearning/InterfaceLearning.iml" filepath="$PROJECT_DIR$/InterfaceLearning/InterfaceLearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeeCode/LeeCode.iml" filepath="$PROJECT_DIR$/LeeCode/LeeCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListTest/ListTest.iml" filepath="$PROJECT_DIR$/ListTest/ListTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/THreadTest/THreadTest.iml" filepath="$PROJECT_DIR$/THreadTest/THreadTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/git_Java.iml" filepath="$PROJECT_DIR$/.idea/git_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reflectionLearning/reflectionLearning.iml" filepath="$PROJECT_DIR$/reflectionLearning/reflectionLearning.iml" />
       <module fileurl="file://$PROJECT_DIR$/test1/test1.iml" filepath="$PROJECT_DIR$/test1/test1.iml" />
     </modules>
   </component>
