@@ -17,4 +17,16 @@ public class SolutionTest {
             assertEquals("x :"+x+" y: "+y,String.valueOf(x*y),new Solution().multiply(String.valueOf(x),String.valueOf(y)));//加上消息的random调试
         }
     }
+
+    @Test
+    public void swapPairs() {
+        Solution solution = new Solution();
+        ListNode listNode = new ListNode(1,new ListNode(2,new ListNode(3,new ListNode(4,null))));
+        solution.swapPairs(listNode);
+        while (listNode!=null) {
+            System.out.println(listNode.val);
+            listNode=listNode.next;
+        }
+
+    }
 }
